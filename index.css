@@ -1,0 +1,22 @@
+.sh{
+    position: relative;
+    top: 5vw;
+    height: 42vw;
+    width: 42vw;
+    margin: auto;
+    border: 2px solid black;
+}
+
+body {
+    background-image: url("background.jpg");
+  }
+
+.button--{
+    height: 2.8vw;
+    width: 2.8vw;  
+    background-color: rgb(146, 83, 0);  
+}
+
+.font{
+    font-size: 2vw;
+}
